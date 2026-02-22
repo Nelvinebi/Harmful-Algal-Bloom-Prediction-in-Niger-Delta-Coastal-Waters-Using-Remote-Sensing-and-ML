@@ -101,6 +101,9 @@ This project uses synthetic data and is intended for educational, research, and 
 
 AGBOZU EBINGIYE NELVIN
 
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
+
+
 📄 License
 
 This project is released for academic and research use. You may adapt and extend it with appropriate attribution.
